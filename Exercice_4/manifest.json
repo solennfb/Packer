@@ -1,0 +1,23 @@
+{
+  "builds": [
+    {
+      "name": "alpine",
+      "builder_type": "docker",
+      "build_time": 1750759519,
+      "files": null,
+      "artifact_id": "sha256:979b26447e1ab9887ab5968b3cd45f1e9cf3584f0b845183f6260ebb9a957f9e",
+      "packer_run_uuid": "570f234f-98c3-d874-d7bf-06d960bf68d7",
+      "custom_data": null
+    },
+    {
+      "name": "ubuntu",
+      "builder_type": "docker",
+      "build_time": 1750759535,
+      "files": null,
+      "artifact_id": "sha256:5acf186cf01710ad8db75f657293e91dfee17c2ff31ac09db75bb9bd8a4ca20e",
+      "packer_run_uuid": "570f234f-98c3-d874-d7bf-06d960bf68d7",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "570f234f-98c3-d874-d7bf-06d960bf68d7"
+}
