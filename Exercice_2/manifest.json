@@ -1,0 +1,23 @@
+{
+  "builds": [
+    {
+      "name": "ubuntu-focal",
+      "builder_type": "docker",
+      "build_time": 1750758175,
+      "files": null,
+      "artifact_id": "sha256:1a54401609710228883d0a03b0d104aaae0dc8b99841e5f54b8984fe8f8cc4ac",
+      "packer_run_uuid": "6802bdb3-4936-ec90-3783-17d595ebf92d",
+      "custom_data": null
+    },
+    {
+      "name": "ubuntu",
+      "builder_type": "docker",
+      "build_time": 1750758175,
+      "files": null,
+      "artifact_id": "sha256:94710449829756116da3fb1b10f70a34f4efba63c0dd03bc32de6b335c2a9742",
+      "packer_run_uuid": "6802bdb3-4936-ec90-3783-17d595ebf92d",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "6802bdb3-4936-ec90-3783-17d595ebf92d"
+}
