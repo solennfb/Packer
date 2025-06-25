@@ -1,0 +1,9 @@
+
+*.pem
+*.ppk
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.log
+*.tmp
